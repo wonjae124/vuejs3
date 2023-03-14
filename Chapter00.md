@@ -6,12 +6,16 @@
 - vue vs code extension
 - 크롬 veu.js devtools 확장 설치
 - `npm install -g bootstrap@next` : 부트스트랩5 전역설치 
-
-
-### Bootstrap이란
-- 부트스트랩은 빠르고 쉬운 웹 개발을 위한 프론트엔드 프레임워크입니다.
-- 부트스트랩에는 typography, forms, buttons, tables, navigation, modals, image carousels 및 기타 여러 가지를 위한 HTML 및 CSS 기반 디자인 템플릿과 선택적 JavaScript 플러그인이 포함되어 있습니다.
-- 부트스트랩은 반응형 디자인을 쉽게 만들 수 있는 기능을 제공합니다.
+- Bootstrap이란
+  - 부트스트랩은 빠르고 쉬운 웹 개발을 위한 프론트엔드 프레임워크입니다.
+  - 부트스트랩에는 typography, forms, buttons, tables, navigation, modals, image carousels 및 기타 여러 가지를 위한 HTML 및 CSS 기반 디자인 템플릿과 선택적 JavaScript 플러그인이 포함되어 있습니다.
+  - 부트스트랩은 반응형 디자인을 쉽게 만들 수 있는 기능을 제공합니다.
+ - 선언적 렌더링
+  - Vue.js의 핵심은 간단한 템플릿 구문을 사용하여 데이터를 선언적으로 DOM에 렌더링 할 수 있다. 
+  - `<div>` 태그 안에 {{변수명}} 와 같은 구문을 선언해서 html DOM 에 데이터를 전달하는 방식
+  - Declarative(선언적으로) 라는 표현은 구체적인 처리는 사용자가 신경쓸 필요 없게 해서 목적에만 집중할 수 있게 해준다는 의미였네
+ - DOM(Document Object Model)
+  - '문서 객체 모델' 로 XML이나 HTML 문서에 접근하기 위한 일종의 인터페이스를 말하며 문서 내의 모든 요소를 정의하고 요소에 접근하는 방법을 제공한다
 
 
 # 1. Vue3 기초
